@@ -1,2 +1,2 @@
 # Customer_Insights_and_Loyalty_Program_Expansion
-this project has been created with the help of sql and power bi.
+This project focuses on analyzing customer behavior and spending patterns using SQL and Power BI to enhance loyalty programs. By identifying top-performing customer segments, favorite products, and spending trends, the project offers actionable insights to expand loyalty programs and improve personalized marketing strategies. The data-driven visualizations in Power BI highlight key opportunities for boosting customer retention and driving business growth.
